@@ -1,10 +1,3 @@
 /*
     ===== Código de TypeScript =====
 */
-
-
-
-
-
-
-
